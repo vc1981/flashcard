@@ -1,2 +1,2 @@
 # flashcard
-Hyperskill Flashcard project
+This is my final solution for the Hyperskill Flashcard project.
